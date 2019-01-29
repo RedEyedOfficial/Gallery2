@@ -1,2 +1,2 @@
 # Gallery2
-pending [roject
+pending project
